@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jean.guillet1@gmail.com
+	name = Jean Guillet
